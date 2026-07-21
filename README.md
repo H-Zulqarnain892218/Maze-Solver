@@ -110,5 +110,4 @@ The `saveO(bool found)` function handles the final display:
 ## 6. 📊 Flow Chart
 <img width="450" height="1327" alt="image" src="https://github.com/user-attachments/assets/c3e09edb-fde2-4b7b-8a1f-079786fd06ec" />
 
-Below is the flowchart representing the logic of the `find_path` function used in the project[cite: 1]:
-*(Refer to your repository image assets to embed the flowchart diagram visual here)*[cite: 1]
+Below is the flowchart representing the logic of the `find_path` function used in the 
